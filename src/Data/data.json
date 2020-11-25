@@ -1,0 +1,30 @@
+[
+    {
+        "titleText": "exercise and relax",
+        "description": "Minimum half an hour"
+    },
+    {
+        "titleText": "breakfast",
+        "description": "Maximum 15 minutes"
+    },
+    {
+        "titleText": "Call Mom",
+        "description": "15 minutes"
+    },
+    {
+        "titleText": "project",
+        "description": "Maximum 2 hours"
+    },
+    {
+        "titleText": "New job apply",
+        "description": "30 minutes"
+    },
+    {
+        "titleText": "relax and sleep",
+        "description": "2 hours"
+    },
+    {
+        "titleText": "Coffee time",
+        "description": "Minimum half an hour"
+    }
+]
